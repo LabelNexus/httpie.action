@@ -1,0 +1,7 @@
+{
+  "default_options": [
+    "--print=hb",
+    "--default-scheme=https",
+    "--pretty=format"
+  ]
+}

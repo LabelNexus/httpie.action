@@ -1,0 +1,9 @@
+name: httpie
+author: Gunnar Norred
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
+
+outputs:
+  response: # id of the output
+    description: 'The response of the request'
